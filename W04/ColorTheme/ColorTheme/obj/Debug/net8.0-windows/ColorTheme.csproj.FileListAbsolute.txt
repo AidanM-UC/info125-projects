@@ -1,0 +1,16 @@
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\bin\Debug\net8.0-windows\ColorTheme.exe
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\bin\Debug\net8.0-windows\ColorTheme.deps.json
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\bin\Debug\net8.0-windows\ColorTheme.runtimeconfig.json
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\bin\Debug\net8.0-windows\ColorTheme.dll
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\bin\Debug\net8.0-windows\ColorTheme.pdb
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.Form1.resources
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.csproj.GenerateResource.cache
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.AssemblyInfo.cs
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.dll
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\refint\ColorTheme.dll
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.pdb
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ColorTheme.genruntimeconfig.cache
+P:\My Documents\INFO125\Projects\W04\ColorTheme\ColorTheme\obj\Debug\net8.0-windows\ref\ColorTheme.dll

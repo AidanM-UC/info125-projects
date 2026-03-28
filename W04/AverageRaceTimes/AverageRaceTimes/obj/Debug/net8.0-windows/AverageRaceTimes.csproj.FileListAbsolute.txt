@@ -1,0 +1,16 @@
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\bin\Debug\net8.0-windows\AverageRaceTimes.exe
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\bin\Debug\net8.0-windows\AverageRaceTimes.deps.json
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\bin\Debug\net8.0-windows\AverageRaceTimes.runtimeconfig.json
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\bin\Debug\net8.0-windows\AverageRaceTimes.dll
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\bin\Debug\net8.0-windows\AverageRaceTimes.pdb
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.Form1.resources
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.csproj.GenerateResource.cache
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.AssemblyInfo.cs
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.dll
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\refint\AverageRaceTimes.dll
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.pdb
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\AverageRaceTimes.genruntimeconfig.cache
+P:\My Documents\INFO125\Projects\W04\AverageRaceTimes\AverageRaceTimes\obj\Debug\net8.0-windows\ref\AverageRaceTimes.dll
