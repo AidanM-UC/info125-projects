@@ -1,0 +1,38 @@
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.Form1.resources
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.GenerateResource.cache
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.GeneratedMSBuildEditorConfig.editorconfig
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfoInputs.cache
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfo.cs
+P:\Desktop\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.exe
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.deps.json
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.runtimeconfig.json
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.dll
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.pdb
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.Form1.resources
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.GenerateResource.cache
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfo.cs
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.dll
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\refint\PayrollWithOvertime.dll
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.pdb
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.genruntimeconfig.cache
+P:\My Documents\INFO125\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\ref\PayrollWithOvertime.dll
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.exe
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.deps.json
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.runtimeconfig.json
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.dll
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\bin\Debug\net8.0-windows\PayrollWithOvertime.pdb
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.Form1.resources
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.GenerateResource.cache
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.AssemblyInfo.cs
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.dll
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\refint\PayrollWithOvertime.dll
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.pdb
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\PayrollWithOvertime.genruntimeconfig.cache
+P:\My Documents\INFO125\Projects\PayrollWithOvertime\PayrollWithOvertime\obj\Debug\net8.0-windows\ref\PayrollWithOvertime.dll
