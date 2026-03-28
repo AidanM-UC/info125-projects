@@ -1,0 +1,46 @@
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.Form1.resources
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.GenerateResource.cache
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.GeneratedMSBuildEditorConfig.editorconfig
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfoInputs.cache
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfo.cs
+P:\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.CoreCompileInputs.cache
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.Form1.resources
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.GenerateResource.cache
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.GeneratedMSBuildEditorConfig.editorconfig
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfoInputs.cache
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfo.cs
+\\file\Usersk$\kdo76\Home\Desktop\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.Form1.resources
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.GenerateResource.cache
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfo.cs
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.sourcelink.json
+P:\My Documents\INFO125\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.exe
+P:\My Documents\INFO125\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.deps.json
+P:\My Documents\INFO125\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.runtimeconfig.json
+P:\My Documents\INFO125\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.dll
+P:\My Documents\INFO125\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.pdb
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.dll
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\refint\BirthDateString.dll
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.pdb
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.genruntimeconfig.cache
+P:\My Documents\INFO125\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\ref\BirthDateString.dll
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.exe
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.deps.json
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.runtimeconfig.json
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.dll
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\bin\Debug\net8.0-windows\BirthDateString.pdb
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.Form1.resources
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.GenerateResource.cache
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.AssemblyInfo.cs
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.sourcelink.json
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.dll
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\refint\BirthDateString.dll
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.pdb
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\BirthDateString.genruntimeconfig.cache
+P:\My Documents\INFO125\Projects\BirthDateString\BirthDateString\obj\Debug\net8.0-windows\ref\BirthDateString.dll

@@ -1,0 +1,48 @@
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Form1.resources
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Properties.Resources.resources
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.GenerateResource.cache
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.GeneratedMSBuildEditorConfig.editorconfig
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfoInputs.cache
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfo.cs
+P:\Desktop\Tutorial 3-5\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.CoreCompileInputs.cache
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Form1.resources
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Properties.Resources.resources
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.GenerateResource.cache
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.GeneratedMSBuildEditorConfig.editorconfig
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfoInputs.cache
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfo.cs
+P:\Desktop\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Form1.resources
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Properties.Resources.resources
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.GenerateResource.cache
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfo.cs
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.exe
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.deps.json
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.runtimeconfig.json
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.dll
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.pdb
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.dll
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\refint\ChangeCounter.dll
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.pdb
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.genruntimeconfig.cache
+P:\My Documents\INFO125\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ref\ChangeCounter.dll
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.exe
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.deps.json
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.runtimeconfig.json
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.dll
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\bin\Debug\net8.0-windows\ChangeCounter.pdb
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Form1.resources
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.Properties.Resources.resources
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.GenerateResource.cache
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.GeneratedMSBuildEditorConfig.editorconfig
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfoInputs.cache
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.AssemblyInfo.cs
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.csproj.CoreCompileInputs.cache
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.dll
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\refint\ChangeCounter.dll
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.pdb
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ChangeCounter.genruntimeconfig.cache
+P:\My Documents\INFO125\Projects\ChangeCounter\ChangeCounter\obj\Debug\net8.0-windows\ref\ChangeCounter.dll
