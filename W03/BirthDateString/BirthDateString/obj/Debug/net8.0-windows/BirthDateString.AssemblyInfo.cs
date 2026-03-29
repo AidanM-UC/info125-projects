@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BirthDateString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7802315d053cdb567a5bb35124a1744917c332")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bec2c6002ebb9c808c8c0d42c07ba565bbf1d70")]
 [assembly: System.Reflection.AssemblyProductAttribute("BirthDateString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BirthDateString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

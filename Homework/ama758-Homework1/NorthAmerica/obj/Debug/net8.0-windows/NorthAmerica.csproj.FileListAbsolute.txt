@@ -14,19 +14,37 @@
 \\file\Usersk$\kdo76\Home\Desktop\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.pdb
 \\file\Usersk$\kdo76\Home\Desktop\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.genruntimeconfig.cache
 \\file\Usersk$\kdo76\Home\Desktop\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\ref\NorthAmerica.dll
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.exe
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.deps.json
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.runtimeconfig.json
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.dll
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.pdb
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.Form1.resources
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.GenerateResource.cache
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.GeneratedMSBuildEditorConfig.editorconfig
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfoInputs.cache
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfo.cs
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.CoreCompileInputs.cache
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.dll
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\refint\NorthAmerica.dll
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.pdb
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.genruntimeconfig.cache
-P:\My Documents\INFO125\Projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\ref\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.exe
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.deps.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.runtimeconfig.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.pdb
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfo.cs
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.sourcelink.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\refint\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.pdb
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.genruntimeconfig.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\ref\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.northAmericaForm.resources
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.exe
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.deps.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.runtimeconfig.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\bin\Debug\net8.0-windows\NorthAmerica.pdb
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.northAmericaForm.resources
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.GenerateResource.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.AssemblyInfo.cs
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.sourcelink.json
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\refint\NorthAmerica.dll
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.pdb
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\NorthAmerica.genruntimeconfig.cache
+C:\Users\aidan\source\repos\info125-projects\Homework\ama758-Homework1\NorthAmerica\obj\Debug\net8.0-windows\ref\NorthAmerica.dll
